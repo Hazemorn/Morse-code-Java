@@ -40,7 +40,7 @@ class main{
                     break; 
                 }
             }
-
+ 
         }
         return result_morse;
     }
